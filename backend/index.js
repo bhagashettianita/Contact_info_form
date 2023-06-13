@@ -37,14 +37,14 @@ app.post('/upload', async (req, res) => {
     // const transporter = nodemailer.createTransport({
     //   service: 'gmail',
     //   auth: {
-    //     user: 'anitabhagashetti7377@gmail.com',
-    //     pass: 'anitabhagashetti73',
+    //     user: '',
+    //     pass: '',
     //   },
     // });
 
     // const mailOptions = {
-    //   from: 'anitabhagashetti07@gmail.com',
-    //   to: 'anitabhagashetti7377@gmail.com',
+    //   from: '',
+    //   to: '',
     //   subject: 'New Contact Form Submission',
     //   text: `Email: ${email}\nPhone: ${phone}`,
     // };
